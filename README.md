@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/kriti-raj/)
 <h1 align="center">Hi 👋, I'm Kriti Raj</h1>
-<h3 align="center">Blockchain enthusiast || Web Developer || React.js || 2 ⭐ at Codechef</h3>
+<h3 align="center">Blockchain enthusiast || Web Developer || React.js || 3 ⭐ at Codechef</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriti-raj&label=Profile%20views&color=0e75b6&style=flat" alt="kriti-raj" /> </p>
