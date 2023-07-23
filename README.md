@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web3.js**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/kriti-raj)
+- 👨‍💻 All of my projects are available [here](https://github.com/kriti-raj?tab=repositories)
 
 - 💬 Ask me about **C++, React, JavaScript**
 
