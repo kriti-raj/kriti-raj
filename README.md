@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kriti Raj</h1>
-<h3 align="center">Blockchain enthusiast || Web Developer || React.js || 3 ⭐ at Codechef</h3>
+<h3 align="center">Full Stack Developer || 3 ⭐ at Codechef (max - 1611)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriti-raj&label=Profile%20views&color=0e75b6&style=flat" alt="kriti-raj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kriti___raj" target="blank"><img src="https://img.shields.io/twitter/follow/kriti___raj?logo=twitter&style=for-the-badge" alt="kriti___raj" /></a> </p>
 
-- 🌱 I’m currently learning **Web3.js**
+- 🌱 I’m currently learning **React.JS**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/kriti-raj?tab=repositories)
 
