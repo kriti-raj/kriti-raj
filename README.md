@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/kriti-raj?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://kritiraj.me/)
 
 - 💬 Ask me about **C++, JavaScript, ReactJs, NodeJs, MongoDB**
 
