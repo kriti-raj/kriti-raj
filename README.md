@@ -66,5 +66,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kriti-raj&show_icons=true&locale=en" alt="kriti-raj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kriti-raj&" alt="kriti-raj" /></p>
-
-<img src="https://badgr.com/public/assertions/zmk7tv2LQxidi3BJ9iC3TQ?embedVersion=1&embedWidth=330&embedHeight=191&identity__email=kriti.2101066cs@iiitbh.ac.in" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></img>
